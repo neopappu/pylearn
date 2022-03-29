@@ -6,3 +6,7 @@ My python tutorials
 ### Language syntax
 ### Functions and loops
 ### Classes
+
+# Applications
+
+
