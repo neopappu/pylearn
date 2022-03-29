@@ -6,6 +6,3 @@ My python tutorials
 ### Language syntax
 ### Functions and loops
 ### Classes
-
-## Mini project
-
