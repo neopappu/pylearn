@@ -1,6 +1,6 @@
 states = {}
 states['KA'] = 'Karnataka'
-states['PY'] = 'Pondecherry
+states['PY'] = 'Pondicherry'
 
 
 print(states)
